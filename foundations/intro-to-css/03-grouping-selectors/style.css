@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+.choose-me,
+.no-you-dont{
+    font-size: 24px;
+    font-family:"Helvetica", "Times New Roman", "sans-serif" ;
+}
+
+.choose-me{
+background-color: black;
+color:white;
+}
+
+.no-you-dont{
+background-color: yellow;
+color: black;
+}
